@@ -3,7 +3,7 @@
 module.exports = (handlers) => {
   return {
     method: 'GET',
-    path: '/assets/{param*}',
+    path: '//s3-us-west-2.amazonaws.com/pizza-luvrs-khanh-nguyen/{param*}',
     config: {
       auth: false,
       handler: {

@@ -1,6 +1,6 @@
 {
 	"name": "filthy rich",
 	"toppings": ["money"],
-	"img": "/assets/pizzas/filthy-rich.png",
+	"img": "//s3-us-west-2.amazonaws.com/pizza-luvrs-khanh-nguyen/pizzas/filthy-rich.png",
 	"username": "kathy"
 }
